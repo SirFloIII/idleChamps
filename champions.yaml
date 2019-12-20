@@ -1,0 +1,126 @@
+Aila: {AL: CN, Cha: 10, Class: Barbarian, Con: 16, Cost: 7500000000000.0, Damage: 1.1e+21,
+  Dex: 18, DmgAll: 1.30e5%, Int: 9, Name: Aila, Race: Wild Elf, Slot: 9, Str: 18,
+  Wis: 13}
+Arkhan: {AL: NE, Cha: 18, Class: Paladin, Con: 14, Cost: 1.0e+20, Damage: 4.35e+22,
+  Dex: 14, DmgAll: 0%, Int: 10, Name: Arkhan, Race: Dragonborn, Slot: 12, Str: 20,
+  Wis: 12}
+Asharra: {AL: LN, Cha: 14, Class: Wizard, Con: 9, Cost: 50000000.0, Damage: 1.41e+18,
+  Dex: 11, DmgAll: 0%, Int: 17, Name: Asharra, Race: Aarakocra, Slot: 6, Str: 10,
+  Wis: 15}
+Avren: {AL: CN, Cha: 18, Class: Warlock / Sorcerer, Con: 15, Cost: 7.5e+17, Damage: 3.14e+21,
+  Dex: 16, DmgAll: 2.55e4%, Int: 13, Name: Avren, Race: Half-Elf, Slot: 11, Str: 8,
+  Wis: 10}
+Azaka: {AL: LN, Cha: 14, Class: Fighter, Con: 16, Cost: 2.5e+20, Damage: 6.37e+20,
+  Dex: 14, DmgAll: 3100%, Int: 11, Name: Azaka, Race: Human, Slot: 12, Str: 19, Wis: 9}
+Barrowin: {AL: LG, Cha: 10, Class: Cleric, Con: 15, Cost: 1330000000000000.0, Damage: 3.82e+21,
+  Dex: 12, DmgAll: 1.73e5%, Int: 11, Name: Barrowin, Race: Dwarf, Slot: 10, Str: 16,
+  Wis: 18}
+Binwin: {AL: LG, Cha: 14, Class: Fighter / Barbarian, Con: 18, Cost: 1250, Damage: 2.46e+21,
+  Dex: 8, DmgAll: 1500%, Int: 10, Name: Binwin, Race: Mountain Dwarf, Slot: 3, Str: 18,
+  Wis: 11}
+Birdsong: {AL: LN, Cha: 17, Class: Bard, Con: 12, Cost: 8000000000000.0, Damage: 2.01e+22,
+  Dex: 18, DmgAll: 0%, Int: 13, Name: Birdsong, Race: Tabaxi, Slot: 9, Str: 9, Wis: 11}
+Black Viper: {AL: CN, Cha: 16, Class: Rogue, Con: 14, Cost: 12500000000.0, Damage: 21000000000000.0,
+  Dex: 18, DmgAll: 0%, Int: 11, Name: Black Viper, Race: Human, Slot: 7, Str: 11,
+  Wis: 11}
+Bruenor: {AL: NG, Cha: 12, Class: Fighter, Con: 16, Cost: 5, Damage: 9.13e+17, Dex: 10,
+  DmgAll: 4.31e4%, Int: 8, Name: Bruenor, Race: Shield Dwarf, Slot: 1, Str: 17, Wis: 13}
+Calliope: {AL: CG, Cha: 19, Class: Bard, Con: 14, Cost: 1000000.0, Damage: 2.26e+21,
+  Dex: 16, DmgAll: 1.54e5%, Int: 12, Name: Calliope, Race: Half-Elf, Slot: 5, Str: 12,
+  Wis: 12}
+Catti-brie: {AL: CG, Cha: 13, Class: Fighter, Con: 14, Cost: 8000000000.0, Damage: 1.81e+21,
+  Dex: 18, DmgAll: 3100%, Int: 17, Name: Catti-brie, Race: Human, Slot: 7, Str: 15,
+  Wis: 11}
+Celeste: {AL: LG, Cha: 10, Class: Cleric, Con: 13, Cost: 50, Damage: 2.17e+21, Dex: 8,
+  DmgAll: 1.15e5%, Int: 12, Name: Celeste, Race: Human, Slot: 2, Str: 14, Wis: 15}
+Deekin: {AL: N, Cha: 18, Class: Bard, Con: 15, Cost: 10, Damage: 2.52e+21, Dex: 14,
+  DmgAll: 0%, Int: 10, Name: Deekin, Race: Kobold, Slot: 1, Str: 8, Wis: 10}
+Delina: {AL: CG, Cha: 17, Class: Sorcerer, Con: 14, Cost: 100000000000.0, Damage: 9.66e+16,
+  Dex: 10, DmgAll: 0%, Int: 15, Name: Delina, Race: Elf, Slot: 8, Str: 8, Wis: 13}
+Dhadius: {AL: CN, Cha: 11, Class: Wizard, Con: 10, Cost: 1500000.0, Damage: 1.46e+22,
+  Dex: 12, DmgAll: 2.59e5%, Int: 18, Name: Dhadius, Race: Human, Slot: 5, Str: 8,
+  Wis: 9}
+Donaar: {AL: CG, Cha: 16, Class: Paladin, Con: 14, Cost: 45, Damage: 2.56e+21, Dex: 8,
+  DmgAll: 7.67e4%, Int: 10, Name: Donaar, Race: Dragonborn, Slot: 2, Str: 18, Wis: 10}
+Drizzt: {AL: LG, Cha: 11, Class: Ranger, Con: 14, Cost: 12500000000000.0, Damage: 3.87e+18,
+  Dex: 19, DmgAll: 2.55e4%, Int: 12, Name: Drizzt, Race: Drow, Slot: 9, Str: 10, Wis: 14}
+Evelyn: {AL: NG, Cha: 18, Class: Paladin, Con: 16, Cost: 78000000.0, Damage: 1.96e+21,
+  Dex: 14, DmgAll: 9.71e4%, Int: 11, Name: Evelyn, Race: Human, Slot: 6, Str: 19,
+  Wis: 12}
+Farideh: {AL: NG, Cha: 18, Class: Warlock, Con: 14, Cost: 5250000000.0, Damage: 1.35e+21,
+  Dex: 14, DmgAll: 3100%, Int: 14, Name: Farideh, Race: Tiefling, Slot: 7, Str: 10,
+  Wis: 13}
+Gromma: {AL: LN, Cha: 13, Class: Druid, Con: 18, Cost: 4300, Damage: 3.9e+22, Dex: 10,
+  DmgAll: 8.63e4%, Int: 12, Name: Gromma, Race: Tortle, Slot: 3, Str: 14, Wis: 17}
+Hitch: {AL: CG, Cha: 17, Class: Rogue, Con: 12, Cost: 100000000000.0, Damage: 5.35e+20,
+  Dex: 18, DmgAll: 1.27e4%, Int: 13, Name: Hitch, Race: Human, Slot: 8, Str: 11, Wis: 15}
+Ishi: {AL: CG, Cha: 15, Class: Fighter / Rogue, Con: 16, Cost: 75000.0, Damage: 2.6e+18,
+  Dex: 18, DmgAll: 0%, Int: 12, Name: Ishi, Race: Kobold, Slot: 4, Str: 10, Wis: 14}
+Jamilah: {AL: N, Cha: 14, Class: Barbarian, Con: 17, Cost: 2.5e+17, Damage: 1.21e+20,
+  Dex: 13, DmgAll: 0%, Int: 10, Name: Jamilah, Race: Human, Slot: 11, Str: 18, Wis: 15}
+Jarlaxle: {AL: NE, Cha: 14, Class: Rogue, Con: 13, Cost: 25000.0, Damage: 2940000000000000.0,
+  Dex: 18, DmgAll: 0%, Int: 16, Name: Jarlaxle, Race: Drow, Slot: 4, Str: 10, Wis: 11}
+Jim: {AL: CN, Cha: 14, Class: Wizard, Con: 10, Cost: 7500000000.0, Damage: 1.76e+19,
+  Dex: 14, DmgAll: 1.73e5%, Int: 18, Name: Jim, Race: Human, Slot: 7, Str: 8, Wis: 12}
+K'thriss: {AL: CN, Cha: 18, Class: Warlock, Con: 10, Cost: 8, Damage: 1.93e+21, Dex: 16,
+  DmgAll: 1500%, Int: 13, Name: K'thriss, Race: Drow, Slot: 1, Str: 8, Wis: 10}
+Korth: {AL: NE, Cha: 12, Class: Samurai (Fighter), Con: 16, Cost: 75, Damage: 3.55e+21,
+  Dex: 18, DmgAll: 1.54e5%, Int: 10, Name: Korth, Race: Lizardfolk, Slot: 2, Str: 14,
+  Wis: 13}
+Krond: {AL: CE, Cha: 9, Class: Fighter, Con: 14, Cost: 100000000.0, Damage: 9.48e+20,
+  Dex: 12, DmgAll: 0%, Int: 16, Name: Krond, Race: Half-Orc, Slot: 6, Str: 18, Wis: 13}
+Makos: {AL: NE, Cha: 18, Class: Warlock, Con: 14, Cost: 10000000000000.0, Damage: 2.93e+22,
+  Dex: 10, DmgAll: 1.30e5%, Int: 14, Name: Makos, Race: Tiefling, Slot: 9, Str: 11,
+  Wis: 8}
+Minsc: {AL: CG, Cha: 12, Class: Ranger, Con: 13, Cost: 2500000000.0, Damage: 3.72e+21,
+  Dex: 15, DmgAll: 1.46e5%, Int: 8, Name: Minsc, Race: Human, Slot: 7, Str: 18, Wis: 10}
+Nayeli: {AL: LG, Cha: 14, Class: Paladin, Con: 16, Cost: 1000, Damage: 1.67e+21, Dex: 12,
+  DmgAll: 7.67e4%, Int: 8, Name: Nayeli, Race: Human, Slot: 3, Str: 16, Wis: 10}
+Nerys: {AL: LG, Cha: 15, Class: Cleric, Con: 15, Cost: 1.0e+20, Damage: 6.89e+21,
+  Dex: 13, DmgAll: 9.71e4%, Int: 12, Name: Nerys, Race: Human, Slot: 12, Str: 16,
+  Wis: 17}
+Nrakk: {AL: LN, Cha: 11, Class: Monk, Con: 15, Cost: 90000000000.0, Damage: 1.55e+19,
+  Dex: 17, DmgAll: 1.43e4%, Int: 12, Name: Nrakk, Race: Githzerai, Slot: 8, Str: 13,
+  Wis: 19}
+Paultin: {AL: CN, Cha: 18, Class: Bard, Con: 14, Cost: 45000.0, Damage: 7.5e+20, Dex: 15,
+  DmgAll: 2.55e4%, Int: 14, Name: Paultin, Race: Human, Slot: 4, Str: 14, Wis: 12}
+Pwent: {AL: CG, Cha: 8, Class: Barbarian, Con: 17, Cost: 900000.0, Damage: 2.05e+21,
+  Dex: 14, DmgAll: 1.54e5%, Int: 9, Name: Pwent, Race: Dwarf, Slot: 5, Str: 18, Wis: 12}
+Qillek: {AL: LG, Cha: 14, Class: Cleric / Bard, Con: 12, Cost: 2000000.0, Damage: 2.22e+21,
+  Dex: 15, DmgAll: 7.67e4%, Int: 13, Name: Qillek, Race: Aarakocra, Slot: 5, Str: 12,
+  Wis: 18}
+Regis: {AL: CN, Cha: 15, Class: Rogue, Con: 14, Cost: 65, Damage: 1.68e+21, Dex: 19,
+  DmgAll: 1.54e5%, Int: 13, Name: Regis, Race: Halfling, Slot: 2, Str: 8, Wis: 10}
+Rosie: {AL: CG, Cha: 14, Class: Monk, Con: 12, Cost: 900000000000000.0, Damage: 2.1e+17,
+  Dex: 16, DmgAll: 0%, Int: 12, Name: Rosie, Race: Halfling, Slot: 10, Str: 8, Wis: 14}
+Shandie: {AL: CG, Cha: 14, Class: Rogue, Con: 15, Cost: 125000000.0, Damage: 2.32e+21,
+  Dex: 18, DmgAll: 1.30e5%, Int: 13, Name: Shandie, Race: Halfling, Slot: 6, Str: 10,
+  Wis: 12}
+Spurt: {AL: LE, Cha: 8, Class: Inventor (Rogue), Con: 12, Cost: 750, Damage: 2.3e+21,
+  Dex: 15, DmgAll: 2300%, Int: 8, Name: Spurt, Race: Kobold, Slot: 3, Str: 7, Wis: 7}
+Stoki: {AL: LN, Cha: 12, Class: Monk, Con: 15, Cost: 65000.0, Damage: 4.93e+20, Dex: 18,
+  DmgAll: 2.55e4%, Int: 13, Name: Stoki, Race: Gnome, Slot: 4, Str: 11, Wis: 17}
+Strix: {AL: CG, Cha: 18, Class: Sorcerer, Con: 14, Cost: 3.5e+16, Damage: 6.88e+21,
+  Dex: 12, DmgAll: 3500%, Int: 16, Name: Strix, Race: Tiefling, Slot: 11, Str: 10,
+  Wis: 11}
+Turiel: {AL: LG, Cha: 12, Class: Cleric, Con: 16, Cost: 20, Damage: 9.85e+21, Dex: 11,
+  DmgAll: 1.02e5%, Int: 13, Name: Turiel, Race: Aasimar, Slot: 1, Str: 9, Wis: 17}
+Tyril: {AL: NG, Cha: 13, Class: Druid, Con: 15, Cost: 1000000000000000.0, Damage: 7.34e+20,
+  Dex: 15, DmgAll: 8.63e4%, Int: 13, Name: Tyril, Race: Firbolg, Slot: 10, Str: 18,
+  Wis: 18}
+Vlahnya: {AL: NG, Cha: 16, Class: Bard / Wizard, Con: 10, Cost: 250000000000.0, Damage: 4.88e+21,
+  Dex: 14, DmgAll: 3100%, Int: 14, Name: Vlahnya, Race: Eladrin, Slot: 8, Str: 8,
+  Wis: 14}
+Walnut: {AL: LN, Cha: 10, Class: Druid, Con: 14, Cost: 150000000000.0, Damage: 8.13e+20,
+  Dex: 16, DmgAll: 1.15e5%, Int: 10, Name: Walnut, Race: Wood Elf, Slot: 8, Str: 8,
+  Wis: 20}
+Warden: {AL: CE, Cha: 18, Class: Warlock, Con: 12, Cost: 5.0e+17, Damage: 9.3e+21,
+  Dex: 16, DmgAll: 7.28e4%, Int: 8, Name: Warden, Race: Warforged, Slot: 11, Str: 14,
+  Wis: 11}
+Wulfgar: {AL: CG, Cha: 14, Class: Barbarian, Con: 14, Cost: 750000000000000.0, Damage: 1.1e+21,
+  Dex: 13, DmgAll: 9.71e4%, Int: 11, Name: Wulfgar, Race: Human, Slot: 10, Str: 20,
+  Wis: 9}
+Xander: {AL: CG, Cha: 12, Class: Rogue, Con: 10, Cost: 1250000.0, Damage: 5.24e+21,
+  Dex: 20, DmgAll: 1.02e5%, Int: 14, Name: Xander, Race: Human, Slot: 5, Str: 8, Wis: 15}
+Zorbu: {AL: CG, Cha: 13, Class: Ranger, Con: 14, Cost: 5.0e+19, Damage: 3.27e+22,
+  Dex: 17, DmgAll: 2.19e5%, Int: 12, Name: Zorbu, Race: Gnome, Slot: 12, Str: 8, Wis: 16}
